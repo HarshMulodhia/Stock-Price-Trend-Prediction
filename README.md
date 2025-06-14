@@ -30,7 +30,7 @@ model built with Keras and optionally visualizes insights through a Streamlit da
 # ▶️ Usage
 
 Run the LSTM predictor:
-    python main.py
+    python main.ipynb
 
 (Optional) Run the Streamlit dashboard:
     streamlit run app.py
